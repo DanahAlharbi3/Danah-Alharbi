@@ -1,8 +1,10 @@
 # Hi, I'm Danah  Alharbi
 
-Computer Information Systems Graduate interested in Project Management, UI/UX, and Data Analysis.
+Computer Information Systems graduate from Princess Nourah Bint Abdulrahman University with practical training experience in data analysis, CRM systems, and digital solution development.
 
-I enjoy working on projects that combine technology, creativity, and problem-solving. Currently developing my skills in Python, Power BI, and user experience design.
+I'm interested in exploring how technology can solve real-world problems through data analytics, front-end development, and UI/UX design. I enjoy building user-friendly digital solutions, learning new technologies, and turning ideas into practical projects.
+
+Currently expanding my skills in Python, Power BI, HTML, CSS, and JavaScript.
 
 ## Skills
 - Project Management
